@@ -1,2 +1,2 @@
 # datateam
-datateam structure
+Datateam structure
